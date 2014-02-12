@@ -1,6 +1,7 @@
 ﻿({
     baseUrl: 'scripts',
     dir: 'build',
-    mainConfigFile: 'scripts/app.js',
-    modules: [{ name: 'app' }]
+    mainConfigFile: 'scripts/app2.js',
+    modules: [{ name: 'app2' }],
+    optimize: 'none'
 })
